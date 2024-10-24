@@ -78,6 +78,7 @@ categorical_crossentropy : Okuduğum makalelerde ve incelediğim projelerde bunu
 relu: Pikselleri 0-1 aralığına indirgediğim için matematiksel formülünden dolayı bunu kullanmayı tercih ettim.
 softmax: Okuduğum makalelerde ve incelediğim projelerde bunun en uygun fonksiyon olduğunu öğrendim.
 
+kaggle: https://www.kaggle.com/code/embiyasarca/fish-ann-projects
 
 
 
