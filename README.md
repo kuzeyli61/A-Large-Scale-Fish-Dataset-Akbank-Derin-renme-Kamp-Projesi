@@ -80,6 +80,7 @@ softmax: Okuduğum makalelerde ve incelediğim projelerde bunun en uygun fonksiy
 
 kaggle: https://www.kaggle.com/code/embiyasarca/fish-ann-projects
 
+Dipnot: Nedenini anlamadığım bir şekilde Kaggle'da projemi save & push ederken kodumda hatalar olduğunu gösteriyordu bu yüzden tekrar tekrar yüklemeyi denemek zorunda kaldım. Formu zamanında doldurdum, projemde ise majör bir değişiklik yapmadım.
 
 
 
