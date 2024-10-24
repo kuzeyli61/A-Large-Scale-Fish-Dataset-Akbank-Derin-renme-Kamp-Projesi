@@ -13,59 +13,58 @@ Projemde biri pretrained diğeri cnn olan iki projeden esinlendim. Çünkü ilk 
 Modeli ilk başta 64 layerdan oluşan tek bir hidden layer ile başladım ve "Test Accuracy" değerim %70 olarak çıktı.
 Daha sonra aşağıdaki belirteceğim şekilde modeli güncelledim
 
-2. Deneme :
+Deneme 2 :
   64 nöronluk 2 hidden layer eklendi
   Test Accuracy : % 80
 
-3. Deneme:
+Deneme 3:
   batch_size = 32' den 64'e çıkartıldı
   Test Accuracy: %89
 
-4. Deneme:
+Deneme 4:
   epochs = 10'dan 20'ye çıkartıldı
   Test Accuracy: %88
 
-5. Deneme:
+Deneme 5:
   3. hidden layer eklendi
   17. epoch'ta model durdu
   Test Accuracy: %92
 
-6. Deneme:
+Deneme 6:
   Overfitting'ten kaçınmak için "Dropout = 0.3" eklendi
-
-10. epoch'ta model durdu
+  10. epoch'ta model durdu
   Test Accuracy: %86
 
-7. Deneme:
+Deneme 7:
   Nöron sayıları 128'e çıkartıldı
   Test Accuracy: %88
 
-8. Deneme:
+Deneme 8:
   4. hidden layer eklendi
   Test Accuracy: %86
 
-9. Deneme:
+Deneme 9:
   batch_size = 128 olarak güncellendi
   Hidden layer sayısı 3'e indirildi
   Test Accuracy: %90
 
-10. Deneme:
+Deneme 10:
   Learning rate parametresi 0.001 olarak eklendi
   Test Accuracy: %91
 
-11. Deneme:
+Deneme 11:
   Dropout = 0.01 olarak güncellendi
   Test Accuracy: %91
 
-12. Deneme:
+Deneme 12:
   Learning rate parametresi 0.01 olarak güncellendi
   Test Accuracy: %83
 
-13. Deneme:
+Deneme 13:
   Learning rate parametresi 0.005 olarak güncellendi
   Test Accuracy: %84
 
-14. Deneme:
+Deneme 14:
   Learning rate parametresi 0.001 ' e geri getirildi ve en doğru değer olarak karar kılındı.
   Test Accuracy: %95
 
